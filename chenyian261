@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Yi-An's Resume</title>
+    <style type="text/css">
+    body {
+        color: white;
+        background-color: #000000;
+    }
+    
+    img {
+        width: 12.5%;
+        float: left;
+        margin-right: 30px;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    
+    {
+        font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+    }
+    
+    li {
+        font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+    }
+    
+    section {
+        border-top: 1px solid #dedede;
+        padding: 20px 0 0;
+    }
+    </style>
+</head>
+
+<body>
+    <h1> Yi-An Chen </h1>
+    <img src="http://i.imgur.com/noTT6dg.png?1">
+    <ul>
+        <li>E-mail:
+            <nbsp> ychen01@email.wm.edu</li>
+        <br>
+        <li>Mobile:
+            <nbsp> 0980529318</li>
+    </ul>
+    <p>
+        <h2><strong>Education:</strong></h2>
+        <br>
+        <ul>
+            <li>College of William and Mary, Virginia, USA, BA in Art and Art History </li>
+            <li> Universitaet Potsdam, Potsdam, Germany</li>
+            <li>Dulwich College Shanghai, Shanghai, China</li>
+        </ul>
+    </p>
+    <br>
+    <section>
+        <h3>Work Experience:</h3>
+        <p>
+            <ul>
+                <p>
+                    <li><strong>Temporary Associate, Gentalink Co., Ltd.,</strong> Frankfurt, Germany
+                        <br> February 2015
+                        <br>International trading company that imports and exports kitchenware goods and offers distribution.
+                        <br> • Attended Messe Frankfurt Ambiente 2015 as a translator and assistant purchaser for the associates of Gentalink Co., Ltd. and their suppliers.
+                        <br> • Translation, hotel bookings, assisting in product search and product presentation.</li>
+                </p>
+                <p>
+                    <li><strong>Intern, Klein Sun Gallery,</strong> New York, USA
+                        <br>August 2014-January 2015
+                        <br>Contemporary Chinese Art Gallery.
+                        <br>• Assisted in art handling and shipping.
+                        <br>• Handled most written transcriptions of articles and artist information from Mandarin to English and vice versa. Interpreter for the Chinese artists as well as the guests and gallery staff members.
+                        <br>• Updated website information, press release, client and sales information, and artist information.
+                        <br>• Front desk job—directing calls and assisting visitors and clients.
+                        <br>• Assisted artists in the process of their work as well as gallery staff during installation period. </li>
+                </p>
+                <p>
+                    <li><strong>Human Resources Intern, Flextronics International Ltd.,</strong> Shanghai, China
+                        <br> June 2011-July 2011
+                        <br>Global supply chain solutions company that offers electronics design, manufacturing, assembly, test, distribution, and aftermarket services.
+                        <br>• Assisted in labor recruitment and interview procedures and organized company’s social events.
+                        <br>• Collaborated with the Human Resources Department for the LEAN management project in order to maximize recruitment and training process efficiency for labor workers. Assisted in creating presentation and presenting with group to upper management from Flextronics Headquarters.
+                        <br>• Interpreter for both the Human Resources team and the management team from Headquarters Mandarin/ English to facilitate better communication.
+                        <br>• Mandarin to English translation of company’s official website materials.</li>
+                </p>
+                <p>
+                    <li><strong>Intern, Kitchen Spring,</strong> Taipei, Taiwan
+                        <br>June 2010-August 2010
+                        <br>International trading company of kitchenware goods.
+                        <br>• Assisted translation work Mandarin/English in the Marketing and Purchasing departments. Facilitated better communication between Taipei office and suppliers from abroad.
+                        <br>• Administrative duties and assistant to the manager. </li>
+                </p>
+            </ul>
+    </section>
+    </p>
+    <p>
+        <section>
+            <h4>Other Experiences and Skills</h4>
+            <br>Classical Piano, Piano Tutoring, Digital Sculpture and 3D Printing , Installation Art, Drawing, Clay Sculpting, Mandarin Chinese (native), English (bilingual), German (limited), Microsoft Word, Excel, Powerpoint, Adobe Photoshop, Cinema 4D basics, Artsystems Pro
+        </section>
+    </p>
+</body>
+
+</html>
