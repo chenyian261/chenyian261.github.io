@@ -137,7 +137,12 @@ table {
 }
 
 body {
-    background-color: rgb(20%, 10%, 5%);
+    background-color: #FFB6C1;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10px 10px 10px;
 }
 
 p.pgreen {
