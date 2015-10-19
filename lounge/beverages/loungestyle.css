@@ -136,12 +136,28 @@ table {
     border-spacing: 0;
 }
 
+body {
+    background-color: rgb(20%, 10%, 5%);
+}
+
 p.pgreen {
+    font-family: Times, serif;
     color: green;
 }
 
-p.pblue {
-    color: blue;
+p#pred {
+    color: red;
 }
 
-p#pgray {}
+p.pblue {
+    color: teal;
+}
+
+p#pfuchsia {
+    color: fuchsia;
+}
+
+body {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
