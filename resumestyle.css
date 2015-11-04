@@ -158,6 +158,10 @@
      font-weight: bold;
  }
  
+ a:hover {
+     background-color: #c1ff55;
+ }
+ 
  h2,
  h3,
  h4 {
