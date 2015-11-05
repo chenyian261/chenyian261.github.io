@@ -141,6 +141,12 @@ a:visited {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+    overflow: none;
+}
+
 
 /* Mobile Device small size */
 
