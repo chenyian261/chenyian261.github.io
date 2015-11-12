@@ -165,7 +165,7 @@
  h2,
  h3,
  h4 {
-     font-family: 'Special Elite', Helvetica, Arial, sans-serif;
+     font-family: font-family: 'Lato', Helvetica, Arial, sans-serif;
      font-size: 180%;
      letter-spacing: 0.1em;
      text-align: center;
@@ -175,6 +175,12 @@
  
  li {
      font-family: 'Quicksand', Helvetica, Arial, sans-serif;
+     line-height: 150%;
+ }
+ 
+ p.others {
+     font-family: 'Quicksand', Helvetica, Arial, sans-serif;
+     line-height: 150%;
  }
  
  section {
